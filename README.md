@@ -1,2 +1,2 @@
-# llm-lab
-A place for tinkering with LLMs
+# genai-lab
+A place for tinkering with generative AI
